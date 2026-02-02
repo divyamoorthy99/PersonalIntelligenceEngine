@@ -1,6 +1,6 @@
 # Multi-Modal Life Pattern Personal Intelligence Pipeline
 
-**Project Summary**
+# **Project Summary**
 
 ## Overview
 
