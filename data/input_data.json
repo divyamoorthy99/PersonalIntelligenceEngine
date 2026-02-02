@@ -1,0 +1,242 @@
+[
+  {
+    "entry_id": "d_001",
+    "date": "2025-10-01",
+    "text": "Tough day at work. Feeling pressure about the upcoming performance review. So many deadlines piling up.",
+    "voice_transcript": "I hope I can keep up. Feeling nervous about meeting expectations.",
+    "image_caption": "A cluttered desk with multiple screens and papers.",
+    "location_city": "Mumbai"
+  },
+  {
+    "entry_id": "d_002",
+    "date": "2025-10-02",
+    "text": "Another stressful morning. The project deadline is looming and I'm not sure we'll make it on time.",
+    "voice_transcript": "Team meeting was intense. Everyone's on edge about the deliverables.",
+    "image_caption": "Conference room with people looking at laptops.",
+    "location_city": "Mumbai"
+  },
+  {
+    "entry_id": "d_003",
+    "date": "2025-10-03",
+    "text": "Managed to get through most of my tasks today. Still feeling the weight of work but made progress.",
+    "voice_transcript": "At least I'm making headway. Small wins matter.",
+    "image_caption": "Computer screen showing completed task list.",
+    "location_city": "Mumbai"
+  },
+  {
+    "entry_id": "d_004",
+    "date": "2025-10-04",
+    "text": "Friday finally! But I'm exhausted. This week really drained me. Need to rest this weekend.",
+    "voice_transcript": "I'm so tired. Just want to sleep and forget about work for a bit.",
+    "image_caption": "Person lying on couch looking tired.",
+    "location_city": "Mumbai"
+  },
+  {
+    "entry_id": "d_005",
+    "date": "2025-10-05",
+    "text": "Wonderful Saturday! Went to the beach with friends. Felt the stress melt away. Great conversations and laughter.",
+    "voice_transcript": "This is exactly what I needed. Feeling so much better now!",
+    "image_caption": "Beach scene with people sitting together.",
+    "location_city": "Mumbai"
+  },
+  {
+    "entry_id": "d_006",
+    "date": "2025-10-06",
+    "text": "Relaxing Sunday. Caught up on reading and spent time with family. Feeling recharged for next week.",
+    "voice_transcript": "Family time is precious. Mom made my favorite food. Feeling grateful.",
+    "image_caption": "Dining table with family members.",
+    "location_city": "Mumbai"
+  },
+  {
+    "entry_id": "d_007",
+    "date": "2025-10-07",
+    "text": "Monday blues hit hard. Back to the grind. The review is tomorrow and I'm anxious about it.",
+    "voice_transcript": "I feel unprepared. What if they're not happy with my work? Am I good enough?",
+    "image_caption": "Person staring at computer looking worried.",
+    "location_city": "Mumbai"
+  },
+  {
+    "entry_id": "d_008",
+    "date": "2025-10-08",
+    "text": "Performance review went better than expected! Got positive feedback and constructive suggestions. Feeling relieved!",
+    "voice_transcript": "Wow, they actually appreciated my work! I was so worried for nothing.",
+    "image_caption": "Smiling person in office setting.",
+    "location_city": "Mumbai"
+  },
+  {
+    "entry_id": "d_009",
+    "date": "2025-10-09",
+    "text": "Started new project today. It's challenging but exciting. Feeling motivated after yesterday's feedback.",
+    "voice_transcript": "I can do this. Time to prove myself on this new challenge.",
+    "image_caption": "Whiteboard with project planning notes.",
+    "location_city": "Mumbai"
+  },
+  {
+    "entry_id": "d_010",
+    "date": "2025-10-10",
+    "text": "Good progress on the project. Team collaboration is smooth. Feeling more confident in my abilities.",
+    "voice_transcript": "We're really clicking as a team. This feels right.",
+    "image_caption": "Team members collaborating around a desk.",
+    "location_city": "Mumbai"
+  },
+  {
+    "entry_id": "d_011",
+    "date": "2025-10-11",
+    "text": "Hit a roadblock today. Technical issue that's harder to solve than I thought. Staying late to figure it out.",
+    "voice_transcript": "This bug is driving me crazy. But I'll crack it.",
+    "image_caption": "Code on screen with error messages.",
+    "location_city": "Mumbai"
+  },
+  {
+    "entry_id": "d_012",
+    "date": "2025-10-12",
+    "text": "Weekend plans with old friends. Went hiking and it was amazing. Nature really helps clear the mind.",
+    "voice_transcript": "Fresh air, good friends, beautiful views. Life is good!",
+    "image_caption": "Mountain trail with hikers.",
+    "location_city": "Lonavala"
+  },
+  {
+    "entry_id": "d_013",
+    "date": "2025-10-13",
+    "text": "Lazy Sunday. Binge-watched my favorite series and ordered pizza. Sometimes you just need a day off.",
+    "voice_transcript": "No regrets about doing absolutely nothing today. Self-care!",
+    "image_caption": "Living room with TV and pizza box.",
+    "location_city": "Mumbai"
+  },
+  {
+    "entry_id": "d_014",
+    "date": "2025-10-14",
+    "text": "Started the week strong. Solved that technical issue from last week! Feeling accomplished.",
+    "voice_transcript": "Yes! Finally figured it out. The solution was simpler than I thought.",
+    "image_caption": "Computer screen with successful code execution.",
+    "location_city": "Mumbai"
+  },
+  {
+    "entry_id": "d_015",
+    "date": "2025-10-15",
+    "text": "Team lunch today. Good bonding time. Work feels less stressful when you connect with colleagues.",
+    "voice_transcript": "We had such a fun time. These people are becoming real friends.",
+    "image_caption": "Restaurant table with colleagues laughing.",
+    "location_city": "Mumbai"
+  },
+  {
+    "entry_id": "d_016",
+    "date": "2025-10-16",
+    "text": "Started exercising again. Went for a morning run. Body is sore but mind feels clear.",
+    "voice_transcript": "I need to make this a habit. Already feeling more energetic.",
+    "image_caption": "Park with jogging path in morning light.",
+    "location_city": "Mumbai"
+  },
+  {
+    "entry_id": "d_017",
+    "date": "2025-10-17",
+    "text": "Worked from home today. More productive than office. Got through tasks faster and had time for personal stuff.",
+    "voice_transcript": "Love the flexibility. Balanced work and life better today.",
+    "image_caption": "Home office setup with plants.",
+    "location_city": "Mumbai"
+  },
+  {
+    "entry_id": "d_018",
+    "date": "2025-10-18",
+    "text": "Client presentation today. Was nervous but it went smoothly. They loved our proposal!",
+    "voice_transcript": "All that preparation paid off. Team did great!",
+    "image_caption": "Presentation screen with graphs and charts.",
+    "location_city": "Mumbai"
+  },
+  {
+    "entry_id": "d_019",
+    "date": "2025-10-19",
+    "text": "Weekend getaway to the countryside. Staying at a peaceful resort. Much needed break from city chaos.",
+    "voice_transcript": "The quiet here is incredible. Feeling so relaxed already.",
+    "image_caption": "Resort with green fields and mountains.",
+    "location_city": "Nashik"
+  },
+  {
+    "entry_id": "d_020",
+    "date": "2025-10-20",
+    "text": "Had a long call with an old friend today. Talked about life, dreams, and memories. Feeling nostalgic and happy.",
+    "voice_transcript": "Some friendships never change no matter how much time passes.",
+    "image_caption": "Phone showing video call with friend.",
+    "location_city": "Nashik"
+  },
+  {
+    "entry_id": "d_021",
+    "date": "2025-10-21",
+    "text": "Back to work. Feeling refreshed after the break. New perspective on things.",
+    "voice_transcript": "That getaway really recharged me. Ready to tackle this week!",
+    "image_caption": "Office desk with organized workspace.",
+    "location_city": "Mumbai"
+  },
+  {
+    "entry_id": "d_022",
+    "date": "2025-10-22",
+    "text": "Started mentoring a junior colleague. It's rewarding to help someone grow. Makes me reflect on my own journey.",
+    "voice_transcript": "Teaching others helps me learn too. This is fulfilling.",
+    "image_caption": "Two people at desk reviewing documents.",
+    "location_city": "Mumbai"
+  },
+  {
+    "entry_id": "d_023",
+    "date": "2025-10-23",
+    "text": "Feeling a bit under the weather. Caught a cold. Working from home and taking it easy.",
+    "voice_transcript": "Need to rest and recover. Body is telling me to slow down.",
+    "image_caption": "Bed with medicine and tissues.",
+    "location_city": "Mumbai"
+  },
+  {
+    "entry_id": "d_024",
+    "date": "2025-10-24",
+    "text": "Still sick but forcing myself to rest. Watching comfort movies and drinking tea.",
+    "voice_transcript": "Sometimes your body needs a break. Learning to listen to it.",
+    "image_caption": "Cozy blanket and tea cup.",
+    "location_city": "Mumbai"
+  },
+  {
+    "entry_id": "d_025",
+    "date": "2025-10-25",
+    "text": "Feeling better today. Health is truly wealth. Grateful to be recovering.",
+    "voice_transcript": "Almost back to normal. Can't wait to get back to routine.",
+    "image_caption": "Healthy meal with fruits and juice.",
+    "location_city": "Mumbai"
+  },
+  {
+    "entry_id": "d_026",
+    "date": "2025-10-26",
+    "text": "Attended a music concert. The energy was incredible! Dancing and singing along felt liberating.",
+    "voice_transcript": "Music heals the soul. This was exactly what I needed!",
+    "image_caption": "Concert venue with lights and crowd.",
+    "location_city": "Mumbai"
+  },
+  {
+    "entry_id": "d_027",
+    "date": "2025-10-27",
+    "text": "Quiet Sunday. Did some journaling and reflection. Thinking about where I want to be in a year.",
+    "voice_transcript": "Life is moving fast. Need to be more intentional about my goals.",
+    "image_caption": "Journal with pen and coffee cup.",
+    "location_city": "Mumbai"
+  },
+  {
+    "entry_id": "d_028",
+    "date": "2025-10-28",
+    "text": "Started the week with a team strategy meeting. Exciting plans ahead for next quarter!",
+    "voice_transcript": "Love where the company is heading. Feeling aligned with the vision.",
+    "image_caption": "Meeting room with strategic planning boards.",
+    "location_city": "Mumbai"
+  },
+  {
+    "entry_id": "d_029",
+    "date": "2025-10-29",
+    "text": "Had a creative brainstorming session. Generated lots of innovative ideas. Feeling inspired!",
+    "voice_transcript": "When the creative juices flow, everything feels possible!",
+    "image_caption": "Whiteboard full of colorful sticky notes.",
+    "location_city": "Mumbai"
+  },
+  {
+    "entry_id": "d_030",
+    "date": "2025-10-30",
+    "text": "Reflecting on this month. Had ups and downs but grew through it all. Feeling optimistic about the future.",
+    "voice_transcript": "Every challenge taught me something. Ready for what comes next.",
+    "image_caption": "Sunset view from office window.",
+    "location_city": "Mumbai"
+  }
+]

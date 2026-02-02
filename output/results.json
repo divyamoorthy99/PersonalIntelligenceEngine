@@ -1,0 +1,234 @@
+{
+  "themes": [
+    {
+      "theme_label": "Work Performance",
+      "cluster_id": 0,
+      "representative_entries": [
+        "d_001",
+        "d_007",
+        "d_008"
+      ],
+      "keywords": [
+        "work",
+        "feeling",
+        "review",
+        "performance",
+        "they",
+        "person",
+        "worried",
+        "tough",
+        "pressure",
+        "upcoming"
+      ],
+      "cluster_confidence": 0.79,
+      "entry_count": 3
+    },
+    {
+      "theme_label": "Social Connection",
+      "cluster_id": 1,
+      "representative_entries": [
+        "d_012",
+        "d_027",
+        "d_019"
+      ],
+      "keywords": [
+        "feeling",
+        "friends",
+        "what",
+        "needed",
+        "much",
+        "life",
+        "went",
+        "beach",
+        "felt",
+        "exactly"
+      ],
+      "cluster_confidence": 0.76,
+      "entry_count": 7
+    },
+    {
+      "theme_label": "Work Performance",
+      "cluster_id": 2,
+      "representative_entries": [
+        "d_002",
+        "d_010",
+        "d_029"
+      ],
+      "keywords": [
+        "team",
+        "today",
+        "time",
+        "feeling",
+        "project",
+        "meeting",
+        "people",
+        "work",
+        "started",
+        "feels"
+      ],
+      "cluster_confidence": 0.75,
+      "entry_count": 10
+    },
+    {
+      "theme_label": "Technical Issue",
+      "cluster_id": 3,
+      "representative_entries": [
+        "d_014",
+        "d_011"
+      ],
+      "keywords": [
+        "technical",
+        "issue",
+        "than",
+        "thought",
+        "code",
+        "screen",
+        "week",
+        "roadblock",
+        "today",
+        "harder"
+      ],
+      "cluster_confidence": 0.84,
+      "entry_count": 2
+    },
+    {
+      "theme_label": "Rest & Recovery",
+      "cluster_id": 4,
+      "representative_entries": [
+        "d_023",
+        "d_004",
+        "d_024"
+      ],
+      "keywords": [
+        "feeling",
+        "need",
+        "week",
+        "rest",
+        "family",
+        "body",
+        "back",
+        "really",
+        "tired",
+        "just"
+      ],
+      "cluster_confidence": 0.75,
+      "entry_count": 8
+    }
+  ],
+  "temporal_evolution": [
+    {
+      "week": 1,
+      "start_date": "2025-10-01",
+      "end_date": "2025-10-07",
+      "dominant_theme": "Work Performance",
+      "mood_trend": "improving",
+      "entry_count": 7,
+      "micro_insight": "Work Performance shows positive progression. Consider maintaining current strategies."
+    },
+    {
+      "week": 2,
+      "start_date": "2025-10-08",
+      "end_date": "2025-10-14",
+      "dominant_theme": "Work Performance",
+      "mood_trend": "declining",
+      "entry_count": 7,
+      "micro_insight": "Work Performance indicates increasing challenges. Consider seeking support or adjusting approach."
+    },
+    {
+      "week": 3,
+      "start_date": "2025-10-15",
+      "end_date": "2025-10-21",
+      "dominant_theme": "Work Performance",
+      "mood_trend": "stable",
+      "entry_count": 7,
+      "micro_insight": "Work Performance remains consistent. Current balance appears sustainable."
+    },
+    {
+      "week": 4,
+      "start_date": "2025-10-22",
+      "end_date": "2025-10-28",
+      "dominant_theme": "Rest & Recovery",
+      "mood_trend": "improving",
+      "entry_count": 7,
+      "micro_insight": "Rest & Recovery shows positive progression. Consider maintaining current strategies."
+    },
+    {
+      "week": 5,
+      "start_date": "2025-10-29",
+      "end_date": "2025-10-30",
+      "dominant_theme": "Work Performance",
+      "mood_trend": "declining",
+      "entry_count": 2,
+      "micro_insight": "Work Performance indicates increasing challenges. Consider seeking support or adjusting approach."
+    }
+  ],
+  "pattern_cycles": {
+    "weekly_cycle_detected": true,
+    "description": "Weekly patterns show stress peaks early in week improving towards weekend.",
+    "day_of_week_patterns": {
+      "Wednesday": {
+        "average_sentiment": 0.37,
+        "trend": "positive"
+      },
+      "Thursday": {
+        "average_sentiment": 0.4,
+        "trend": "positive"
+      },
+      "Friday": {
+        "average_sentiment": 0.25,
+        "trend": "positive"
+      },
+      "Saturday": {
+        "average_sentiment": -0.17,
+        "trend": "negative"
+      },
+      "Sunday": {
+        "average_sentiment": 0.38,
+        "trend": "positive"
+      },
+      "Monday": {
+        "average_sentiment": 0.5,
+        "trend": "positive"
+      },
+      "Tuesday": {
+        "average_sentiment": 0.67,
+        "trend": "positive"
+      }
+    }
+  },
+  "anomalies": [
+    {
+      "entry_id": "d_014",
+      "date": "2025-10-14",
+      "anomaly_type": "emotional_spike",
+      "anomaly_score": -0.5145,
+      "description": "Unusual emotional pattern detected on 2025-10-14"
+    },
+    {
+      "entry_id": "d_011",
+      "date": "2025-10-11",
+      "anomaly_type": "emotional_spike",
+      "anomaly_score": -0.5082,
+      "description": "Unusual emotional pattern detected on 2025-10-11"
+    },
+    {
+      "entry_id": "d_004",
+      "date": "2025-10-04",
+      "anomaly_type": "fatigue_spike",
+      "anomaly_score": -0.4913,
+      "description": "Significant fatigue indicators on 2025-10-04"
+    }
+  ],
+  "macro_insight": "Over the 30-day period, life patterns were primarily characterized by work performance. Overall emotional trajectory shows positive growth. Weekly patterns show stress peaks early in week improving towards weekend. 3 significant emotional events were identified.",
+  "predictive_insight": "Week 5 may show similar patterns to recent weeks with typical weekly fluctuations.",
+  "safety_notes": [
+    "No critical risk indicators detected.",
+    "Ambiguous self-doubt language detected on 2 occasions. Interpretations should consider broader context.",
+    "All insights are observational and non-diagnostic. This analysis does not replace professional mental health assessment."
+  ],
+  "visualizations": {
+    "timelines_visualization": "output/timeline.png",
+    "weekly_radar_chart": "output/radar_chart.png",
+    "motifs_graph": "output/motif_graph.png"
+  }
+}
