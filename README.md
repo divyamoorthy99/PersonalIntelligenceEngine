@@ -230,11 +230,5 @@ This project follows responsible AI best practices:
 * **Scalability**: Easily extensible to 100+ days of data
 
 ---
-
-## License & Disclaimer
-This project is developed for **educational and evaluation purposes only**.
-
-**Disclaimer:**
-This system does **not** provide medical, psychological, or diagnostic advice. For real-world deployments involving personal data, consult domain experts, ethicists, and legal professionals.
-
+contributor: Divya Moorthy @divyapeachi99@gmail.com
 
